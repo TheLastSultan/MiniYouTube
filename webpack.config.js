@@ -13,6 +13,7 @@ module.exports = {
       loader: 'babel'
     }]
   },
+  devtool: 'sourcemap',
   resolve: {
     extensions: ['', '.js', '.jsx']
   },
